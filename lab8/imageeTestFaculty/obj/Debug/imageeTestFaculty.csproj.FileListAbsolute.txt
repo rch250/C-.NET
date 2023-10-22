@@ -1,0 +1,41 @@
+C:\Users\Mike\imageeTestFaculty\imageeTestFaculty\bin\Debug\imageeTestFaculty.exe.config
+C:\Users\Mike\imageeTestFaculty\imageeTestFaculty\bin\Debug\imageeTestFaculty.exe
+C:\Users\Mike\imageeTestFaculty\imageeTestFaculty\bin\Debug\imageeTestFaculty.pdb
+C:\Users\Mike\imageeTestFaculty\imageeTestFaculty\obj\Debug\imageeTestFaculty.csprojAssemblyReference.cache
+C:\Users\Mike\imageeTestFaculty\imageeTestFaculty\obj\Debug\imageeTestFaculty.Form1.resources
+C:\Users\Mike\imageeTestFaculty\imageeTestFaculty\obj\Debug\imageeTestFaculty.Properties.Resources.resources
+C:\Users\Mike\imageeTestFaculty\imageeTestFaculty\obj\Debug\imageeTestFaculty.csproj.GenerateResource.cache
+C:\Users\Mike\imageeTestFaculty\imageeTestFaculty\obj\Debug\imageeTestFaculty.csproj.CoreCompileInputs.cache
+C:\Users\Mike\imageeTestFaculty\imageeTestFaculty\obj\Debug\imageeTestFaculty.exe
+C:\Users\Mike\imageeTestFaculty\imageeTestFaculty\obj\Debug\imageeTestFaculty.pdb
+J:\imageloadapp\imageeTestFaculty\imageeTestFaculty\bin\Debug\imageeTestFaculty.exe.config
+J:\imageloadapp\imageeTestFaculty\imageeTestFaculty\bin\Debug\imageeTestFaculty.exe
+J:\imageloadapp\imageeTestFaculty\imageeTestFaculty\bin\Debug\imageeTestFaculty.pdb
+J:\imageloadapp\imageeTestFaculty\imageeTestFaculty\obj\Debug\imageeTestFaculty.csprojAssemblyReference.cache
+J:\imageloadapp\imageeTestFaculty\imageeTestFaculty\obj\Debug\imageeTestFaculty.Form1.resources
+J:\imageloadapp\imageeTestFaculty\imageeTestFaculty\obj\Debug\imageeTestFaculty.Properties.Resources.resources
+J:\imageloadapp\imageeTestFaculty\imageeTestFaculty\obj\Debug\imageeTestFaculty.csproj.GenerateResource.cache
+J:\imageloadapp\imageeTestFaculty\imageeTestFaculty\obj\Debug\imageeTestFaculty.csproj.CoreCompileInputs.cache
+J:\imageloadapp\imageeTestFaculty\imageeTestFaculty\obj\Debug\imageeTestFaculty.exe
+J:\imageloadapp\imageeTestFaculty\imageeTestFaculty\obj\Debug\imageeTestFaculty.pdb
+D:\imageloadapp\imageeTestFaculty\imageeTestFaculty\obj\Debug\imageeTestFaculty.csprojAssemblyReference.cache
+D:\imageloadapp\imageeTestFaculty\imageeTestFaculty\obj\Debug\imageeTestFaculty.Form1.resources
+D:\imageloadapp\imageeTestFaculty\imageeTestFaculty\obj\Debug\imageeTestFaculty.Properties.Resources.resources
+D:\imageloadapp\imageeTestFaculty\imageeTestFaculty\obj\Debug\imageeTestFaculty.csproj.GenerateResource.cache
+D:\imageloadapp\imageeTestFaculty\imageeTestFaculty\obj\Debug\imageeTestFaculty.csproj.CoreCompileInputs.cache
+D:\imageloadapp\imageeTestFaculty\imageeTestFaculty\obj\Debug\imageeTestFaculty.exe
+D:\imageloadapp\imageeTestFaculty\imageeTestFaculty\obj\Debug\imageeTestFaculty.pdb
+D:\imageloadapp\imageeTestFaculty\imageeTestFaculty\bin\Debug\imageeTestFaculty.exe.config
+D:\imageloadapp\imageeTestFaculty\imageeTestFaculty\bin\Debug\imageeTestFaculty.exe
+D:\imageloadapp\imageeTestFaculty\imageeTestFaculty\bin\Debug\imageeTestFaculty.pdb
+C:\Users\rch25\OneDrive\Documents\PCC\CIS\CIS 233N\Week8\imageeTestFaculty1\imageeTestFaculty\imageeTestFaculty\obj\Debug\imageeTestFaculty.csproj.AssemblyReference.cache
+C:\Users\rch25\OneDrive\Documents\PCC\CIS\CIS 233N\Week8\imageeTestFaculty1\imageeTestFaculty\imageeTestFaculty\obj\Debug\imageeTestFaculty.csproj.SuggestedBindingRedirects.cache
+C:\Users\rch25\OneDrive\Documents\PCC\CIS\CIS 233N\Week8\imageeTestFaculty1\imageeTestFaculty\imageeTestFaculty\obj\Debug\imageeTestFaculty.exe
+C:\Users\rch25\OneDrive\Documents\PCC\CIS\CIS 233N\Week8\imageeTestFaculty1\imageeTestFaculty\imageeTestFaculty\obj\Debug\imageeTestFaculty.pdb
+C:\Users\rch25\OneDrive\Documents\PCC\CIS\CIS 233N\Week8\imageeTestFaculty1\imageeTestFaculty\imageeTestFaculty\bin\Debug\imageeTestFaculty.exe.config
+C:\Users\rch25\OneDrive\Documents\PCC\CIS\CIS 233N\Week8\imageeTestFaculty1\imageeTestFaculty\imageeTestFaculty\bin\Debug\imageeTestFaculty.exe
+C:\Users\rch25\OneDrive\Documents\PCC\CIS\CIS 233N\Week8\imageeTestFaculty1\imageeTestFaculty\imageeTestFaculty\bin\Debug\imageeTestFaculty.pdb
+C:\Users\rch25\OneDrive\Documents\PCC\CIS\CIS 233N\Week8\imageeTestFaculty1\imageeTestFaculty\imageeTestFaculty\obj\Debug\imageeTestFaculty.Form1.resources
+C:\Users\rch25\OneDrive\Documents\PCC\CIS\CIS 233N\Week8\imageeTestFaculty1\imageeTestFaculty\imageeTestFaculty\obj\Debug\imageeTestFaculty.Properties.Resources.resources
+C:\Users\rch25\OneDrive\Documents\PCC\CIS\CIS 233N\Week8\imageeTestFaculty1\imageeTestFaculty\imageeTestFaculty\obj\Debug\imageeTestFaculty.csproj.GenerateResource.cache
+C:\Users\rch25\OneDrive\Documents\PCC\CIS\CIS 233N\Week8\imageeTestFaculty1\imageeTestFaculty\imageeTestFaculty\obj\Debug\imageeTestFaculty.csproj.CoreCompileInputs.cache
